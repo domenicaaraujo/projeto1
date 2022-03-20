@@ -1,0 +1,56 @@
+/*projeto1*/
+
+.container{
+ 
+   display:flex;
+   flex-flow: row wrap;
+   justify-content: center;
+   align-items: center;
+}
+
+#menu li{
+    justify-content: flex-end;
+    display: inline;
+    padding: 20px;
+    
+    
+}
+
+#menu li a{
+    text-decoration: none;
+    color: black;    
+    
+}
+
+#menu li a:hover{
+    color: goldenrod;
+    
+}
+
+.p-30{
+    padding: 30px;
+}
+
+/*página 2*/
+
+.container{
+ 
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+ }
+<style>
+
+#p1{    font-size: 20px; }
+
+.p2{    font-size: 12px; }
+
+.center{     text-align: center; }
+
+
+</style>
+
+
+/*contato*/
+
